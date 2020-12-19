@@ -9,7 +9,7 @@
 Using these scripts you can automate the provision of Jenkins master on AWS EC2 instance.
 ### Commands
 * terraform init (To install the plugins)
-* terrraform plan -out <filename>.tfplan
+* terrraform plan -out "filename.tfplan"
 * terraform apply "filename.tfplan" (install the resources on provider)
 * terraform destroy -auto-approve (delete the created resources)
 
