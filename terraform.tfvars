@@ -1,0 +1,11 @@
+
+region = "us-east-2"
+environment = "Development"
+vpc_cidr = "172.20.0.0/16"
+public_subnet_1_cidr  = "172.20.10.0/24"
+private_subnet_1_cidr = "172.20.20.0/24"
+instance_type = "t2.micro"
+#instance_ami = "ami-0c6b1d09930fac512"
+keyname = "tf-jenkins-aws"
+aws_access_key = "AKIAI4UZNYS7YXNRU7TA"
+aws_secret_key = "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"
