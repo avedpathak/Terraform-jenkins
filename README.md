@@ -1,4 +1,4 @@
-# Auto Provision of Jenkins Master on AWS
+# Installing Jenkins Master on AWS with terraform
 
 ## Content
 
